@@ -1,6 +1,8 @@
 # Used Car sales & Price Analysis
 An Analysis on used cars to predict the key factors impacting the price of an used car using ML &amp; AI Model
 
+**Use 'prompt_II.ipynb'**
+
 ![DealerImage](images/kurt.jpeg)
 
 ## Overview
